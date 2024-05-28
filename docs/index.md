@@ -24,7 +24,8 @@ Ingénierie ; UniLaSalle Amiens ; Projet étudiant ; Manette multi-usage ; Bluet
 
 Voici notre affiche qui présente une vue d'ensemble de notre projet.
 
-![Poster projet](images/poster.png)
+![IMG_1017](https://github.com/Makerspace-Amiens/2024-RCRemote/assets/119036120/33b58b83-caff-482e-98f6-e7bc3e983345)
+
 
 ## Vidéo
 
